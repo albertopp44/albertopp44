@@ -1,8 +1,7 @@
 ### Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptaltavull&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=albertopp44&theme=tokyonight" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=albertopp44&theme=tokyonight-duo&locale=es)](https://git.io/streak-stats)
 
 
 <!--
