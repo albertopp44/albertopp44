@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
 
+https://github-readme-streak-stats-eight.vercel.app/?user=albertopp44&theme=
 <!--
 **albertopp44/albertopp44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
