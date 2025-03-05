@@ -3,7 +3,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=albertopp44&theme=" alt="GitHub Streak" /></a>
 <!--
-**albertopp44/albertopp44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**albertopp44/albertopp44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
