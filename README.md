@@ -1,3 +1,6 @@
+Currently working with Php, js, AJAX, python and Nextjs(typescript).
+
+
 ### Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
 
