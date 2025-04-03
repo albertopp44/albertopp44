@@ -2,7 +2,7 @@ Currently developing with Php, js, AJAX, python and Nextjs(typescript).
 
 Developed in the past with Laravel 8, Laravel 10 + VueJs.
 
-
+ 
 ### Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
 
