@@ -1,6 +1,6 @@
-Currently developing with Php, js, AJAX, python and Nextjs(typescript).
+Currently developing with Php, JS, python and Nextjs(typescript) and Laravel.
 
-Developed in the past with Laravel 8, Laravel 10 + VueJs.
+Developed in the past with Laravel 10 + Vue3Js.
 
  
 ### Hi there 👋
