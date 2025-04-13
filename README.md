@@ -54,9 +54,9 @@ Currently diving deeper into:
 > *"Build things that matter. Break things to learn. Repeat."* 🚀
 
 
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=albertopp44&theme=" alt="GitHub Streak" /></a>
 ### 📈 GitHub Stats
 
