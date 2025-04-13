@@ -47,7 +47,7 @@ Currently diving deeper into:
 
 ### 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alberto-pascual-pina-92a2ba286/) *(Add yours)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/alberto-pascual-pina-92a2ba286/)
 
 ---
 
@@ -58,6 +58,7 @@ Currently diving deeper into:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertopp44&theme=aura_dark)
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=albertopp44&theme=" alt="GitHub Streak" /></a>
+<br>
 ### 📈 GitHub Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=albertopp44&show_icons=true&theme=radical" alt="Alberto's GitHub Stats" />
