@@ -17,10 +17,10 @@
 
 #### 🚧 Currently Working With
 - **Languages**: PHP, JavaScript, TypeScript, Python
-- **Frameworks**: Laravel, Next.js (App Router, TS)
+- **Frameworks**: Laravel, Next.js (App Router, TS), Django
 - **Styling**: Tailwind CSS, Bootstrap
 - **Databases & Auth**: MySQL, Supabase
-- **Tools & Practices**: RESTful APIs, Server Components, Clean Code
+- **Tools & Practices**: RESTful APIs, Server Components, Clean Code, DRY
 
 #### 🧩 Previously Developed With
 - **Laravel 10 + Vue 3** (full-stack apps & dashboards)
