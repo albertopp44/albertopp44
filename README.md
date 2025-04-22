@@ -9,7 +9,7 @@
 
 - 🎓 Currently studying **Computer Science Engineering**
 - 🛠 Currently working on Bookish!
-- 🚀 Exploring new technologies and always eager to grow
+- 🚀 Working on a personal project about managing personal finances.
 
 ---
 
