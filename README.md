@@ -9,13 +9,13 @@
 
 - 🎓 Currently studying **Computer Science Engineering**
 - 🛠 Currently working on Bookish!
-- 🚀 Working on a personal project about managing personal finances.
+- 🚀 Developing a personal project about managing personal finances.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🚧 Currently Working With
+#### 🚧 Currently
 - **Languages**: PHP, JavaScript, TypeScript, Python
 - **Frameworks**: Laravel, Next.js (App Router, TS), Django
 - **Styling**: Tailwind CSS, Bootstrap
