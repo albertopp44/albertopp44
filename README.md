@@ -23,7 +23,7 @@
 - **Tools & Practices**: RESTful APIs, Server Components, Clean Code, DRY
 
 #### 🧩 Previously Developed With
-- **Laravel 10 + Vue 3** (full-stack apps & dashboards)
+- **Laravel 10 + Vue 3** (full-stack apps)
 
 ---
 
