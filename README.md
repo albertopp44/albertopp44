@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🎓 Currently studying **Computer Science Engineering**
 - 🛠 Currently working on Bookish!
