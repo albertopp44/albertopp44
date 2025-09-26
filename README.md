@@ -2,12 +2,12 @@
 <p align="center">
   Full-stack Developer 
 </p>
-/*| 🎓 Computer Science Engineering Student */
+<!--| 🎓 Computer Science Engineering Student--> 
 ---
 
 ### About Me
 
-/*- Currently studying **Computer Science Engineering** */
+<!--- Currently studying **Computer Science Engineering**--> 
 - Currently working on Bookish!
 - Developing a personal project about managing personal finances.
 
