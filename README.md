@@ -49,7 +49,7 @@ Currently diving deeper into:
 
 ---
 
-> *"Build things that matter. Break things to learn. Repeat."* 
+> *"Journey before destination."* 
 
 
 
